@@ -1,2 +1,2 @@
 # PC-Anywhere
-#### This application makes it possible to control the PC from anywhere.
+#### This application makes it possible to control your PC from anywhere.
